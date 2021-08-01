@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20726" started-at="2021-07-31T20:35:35 IST" finished-at="2021-07-31T20:35:55 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20726" started-at="2021-07-31T20:35:35 IST" finished-at="2021-07-31T20:35:55 IST">
+      <class name="tests.googleCricket">
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.googleCricket@66d1af89]" name="setup" is-config="true" duration-ms="6706" started-at="2021-07-31T20:35:35 IST" finished-at="2021-07-31T20:35:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="googleCricket()[pri:0, instance:tests.googleCricket@66d1af89]" name="googleCricket" duration-ms="13989" started-at="2021-07-31T20:35:41 IST" finished-at="2021-07-31T20:35:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleCricket -->
+      </class> <!-- tests.googleCricket -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
